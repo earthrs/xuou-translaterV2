@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xuou-translaterV2/static/css/main.326ada91.css",
+    "main.js": "/xuou-translaterV2/static/js/main.f19f0ac2.js",
+    "static/js/787.d671f833.chunk.js": "/xuou-translaterV2/static/js/787.d671f833.chunk.js",
+    "index.html": "/xuou-translaterV2/index.html",
+    "main.326ada91.css.map": "/xuou-translaterV2/static/css/main.326ada91.css.map",
+    "main.f19f0ac2.js.map": "/xuou-translaterV2/static/js/main.f19f0ac2.js.map",
+    "787.d671f833.chunk.js.map": "/xuou-translaterV2/static/js/787.d671f833.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.326ada91.css",
+    "static/js/main.f19f0ac2.js"
+  ]
+}
